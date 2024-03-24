@@ -1,4 +1,9 @@
-/*
+//SDEV 200 - Software Development Using Java
+//Professor Adam Bumgardner
+//Student: Tiv Muhammad
+//24 Mar 2024
+// Assignment: Mod1 Programming Assignment (2) 6.31
+/*-------------------------------------------------------*/
 
 import java.util.Scanner;
 
